@@ -1,0 +1,7 @@
+Code/cmake-build-debug/**
+
+Code/\.idea/
+
+.DS_Store
+Code/.DS_Store
+*.pdf
